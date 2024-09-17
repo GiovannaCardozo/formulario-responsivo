@@ -1,4 +1,4 @@
-# Projeto: Venda Fácil de Carros
+# Projeto: Venda fácil de carros
 Este projeto é um **formulário interativo** para cadastro de veículos, que permite aos usuários descreverem e anunciarem seus carros de maneira eficiente. A página oferece um design simples e responsivo, proporcionando uma experiência agradável ao usuário.
  
 ## Estrutura do projeto
@@ -50,4 +50,4 @@ Contribuições são bem-vindas! Se você desejar melhorar este projeto, sinta-s
 Este projeto está licenciado sob a licença MIT.
  
 ## Para acessar
-Para visitar o site finalizado:
+Para visitar o site finalizado: https://formulario-mu-gray.vercel.app/
